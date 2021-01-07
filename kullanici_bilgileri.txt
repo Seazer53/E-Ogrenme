@@ -1,0 +1,21 @@
+ogrenci
+Ali
+Veli
+2001-11-18
+05301234466
+aliveli@hotmail.com
+123
+ogretim gorevlisi
+Ayşe
+Veli
+2001-12-04
+05365469932
+ayseveli@hotmail.com
+456
+admin
+Ahmet
+Veli
+2001-11-10
+05301234466
+ahmetveli@hotmail.com
+789
